@@ -1,0 +1,2 @@
+defmodule Digraphs do
+end
