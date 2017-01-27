@@ -1,6 +1,5 @@
 [![Build Status](https://travis-ci.org/fnchooft/digraph_simple.svg?branch=master)](https://travis-ci.org/fnchooft/digraph_simple)
 
-
 # Digraphs Examples
 
 As I am starting to get extremely interrested in Erlang, Elixir and Phoenix, 
